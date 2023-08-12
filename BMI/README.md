@@ -1,6 +1,9 @@
-# bmi
+# BMI
 
-A new Flutter project.
+Task #10:
+
+- [Figma: UI Project](https://www.figma.com/file/ZUwsZzXYUOpGJLrpZDF9Bs/BMI-calculator-(Community)?type=design&node-id=23-5&mode=design&t=kUAfrQz0ThqSvyCD-0).
+
 
 ## Getting Started
 
